@@ -1,0 +1,18 @@
+.login {
+  width: 100vw;
+  height: 100vh;
+  background-image: url(http://ww1.sinaimg.cn/large/c4b18d0dly1g54h5rllqzj211c1hctbu.jpg);
+  background-size: 100%;
+  align-items: flex-end;
+  position: relative;
+}
+
+.login .dining-button {
+  height: 100rpx;
+  width: 300rpx;
+  border-radius: 20rpx;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 120rpx;
+}

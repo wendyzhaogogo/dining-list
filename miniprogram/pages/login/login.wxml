@@ -1,0 +1,3 @@
+<view class="login flex-center">
+  <button size="mini" class="dining-button" open-type="getUserInfo" bindgetuserinfo="getUserInfo">点餐接龙~</button>
+</view>
