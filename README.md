@@ -1,4 +1,6 @@
 # 这是一个适用于公司点餐接龙的小程序，方便各位同学报名与统计~
+## 服务端
+[dining-list-server](https://github.com/SagaciousLittle/dining-list-server)
 ## 计划功能
 - 报名
 - 统计
